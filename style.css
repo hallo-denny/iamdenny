@@ -135,7 +135,7 @@ section{
     background: #141414;
     border: 2px solid #141414; 
     color: var(--text-color);
-    margin-left: 25px;
+    margin-left: 10px;
 }
 .two:hover{
     color: #141414;
